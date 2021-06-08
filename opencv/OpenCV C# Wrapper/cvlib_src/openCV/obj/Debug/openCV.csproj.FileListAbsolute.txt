@@ -1,0 +1,6 @@
+D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Debug\openCV.XML
+D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Debug\openCV.dll
+D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Debug\openCV.pdb
+D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\obj\Debug\openCV.dll
+D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\obj\Debug\openCV.pdb

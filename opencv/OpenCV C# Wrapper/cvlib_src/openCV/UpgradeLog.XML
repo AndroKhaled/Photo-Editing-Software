@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="openCV">
+</Property><Property Name="Solution File" Value="D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\openCV.sln">
+</Property><Property Name="Date" Value="Saturday, April 11, 2009">
+</Property><Property Name="Time" Value="13:29 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="openCV.sln" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\openCV.sln">
+</Event><Event ErrorLevel="0" Project="openCV" Source="openCV.csproj" Description="Project file successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\openCV.csproj">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cvmisc\cvmisc_h\cvmisc_h.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cvmisc\cvmisc_h\cvmisc_h.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cvaux\src\CvAux.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cvaux\src\CvAux.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cv\include\CvTypes_h.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cv\include\CvTypes_h.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cv\include\cv_h.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cv\include\cv_h.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cv\src\Cv.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cv\src\Cv.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cxcore\src\CxCore.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cxcore\src\CxCore.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cxcore\include\cxcore_h.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cxcore\include\cxcore_h.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="cxcore\include\CxTypes_h.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\cxcore\include\CxTypes_h.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="highgui\src\highgui.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\highgui\src\highgui.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="highgui\include\highgui_h.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\highgui\include\highgui_h.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="tools\cvtools.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\cvlib_src\openCV\Backup\tools\cvtools.cs">
+</Event><Event ErrorLevel="0" Project="openCV" Source="openCV.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="openCV" Source="openCV.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="openCV.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="openCV.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="openCV" Source="openCV.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

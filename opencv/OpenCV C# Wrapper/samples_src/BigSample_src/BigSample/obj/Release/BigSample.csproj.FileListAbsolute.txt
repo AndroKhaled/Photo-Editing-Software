@@ -1,0 +1,10 @@
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\obj\Release\ResolveAssemblyReference.cache
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\obj\Release\CvExample.DlgParams.resources
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\obj\Release\CvExample.DlgVideoSrc.resources
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\obj\Release\CvExample.Properties.Resources.resources
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\obj\Release\CvExample.MainForm.resources
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\obj\Release\BigSample.csproj.GenerateResource.Cache
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\bin\Release\ImageAnalysis.exe
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\bin\Release\openCV.dll
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\bin\Release\openCV.xml
+D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\obj\Release\ImageAnalysis.exe

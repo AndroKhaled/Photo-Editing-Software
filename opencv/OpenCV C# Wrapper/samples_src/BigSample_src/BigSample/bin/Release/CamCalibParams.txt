@@ -1,0 +1,42 @@
+%YAML:1.0
+calibration_time: "01.03.2009 17:11:09"
+image_count: 1
+image_width: 768
+image_height: 576
+board_width: 8
+board_height: 6
+square_size: 1.
+# flags: +fix_principal_point
+flags: 4
+camera_matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 644.5146298359198900, 0., 383.5000000000000000, 0.,
+       641.9909545690061300, 287.5000000000000000, 0., 0., 1. ]
+distortion_coefficients: !!opencv-matrix
+   rows: 1
+   cols: 4
+   dt: d
+   data: [ -0.2735557635687009, 0.1717650824632618,
+       3.2572005813121365e-004, -2.2484627777510247e-003 ]
+avg_reprojection_error: 20.0189617792765300
+per_view_reprojection_errors: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ 21.5939153035481760, 13.1127972602844240, 28.8475556373596190,
+       14.6984217961629240, 21.8421188990275080 ]
+# a set of 6-tuples (rotation vector + translation vector) for each view
+extrinsic_parameters: !!opencv-matrix
+   rows: 5
+   cols: 6
+   dt: f
+   data: [ -2.14410400, -2.00295568, -0.44513339, -4.51032400,
+       -2.82305908, 11.70037651, 2.26092863, 2.08866882, -0.01772144,
+       -4.64829254, -3.15453911, 14.08220959, 1.99337423, 1.96414471,
+       -0.18609275, -4.48546410, -3.77595806, 13.31899452, 2.23132610,
+       1.75167263, 0.43619320, -6.12550735, -3.22757411, 15.36177349,
+       2.00775504, 1.97994256, -0.23704651, -5.34220505, -3.34552145,
+       15.84396076 ]
+# End of File

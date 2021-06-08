@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BigSample">
+</Property><Property Name="Solution File" Value="D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\BigSample.sln">
+</Property><Property Name="User Options File" Value="D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\BigSample.suo">
+</Property><Property Name="Date" Value="Saturday, April 11, 2009">
+</Property><Property Name="Time" Value="13:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BigSample.sln" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\BigSample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BigSample.suo" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\BigSample.suo">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="BigSample.csproj" Description="Project file successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\BigSample.csproj">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="BigSample.csproj.user" Description="Project user file successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\BigSample.csproj.user">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Dialogs\DlgVideoSrc.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Dialogs\DlgVideoSrc.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Dialogs\DlgVideoSrc.Designer.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Dialogs\DlgVideoSrc.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Calibration.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Calibration.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\CamShift.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\CamShift.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\ColorTable.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\ColorTable.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Contours.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Contours.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Conversion.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Conversion.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Dialogs\DlgParams.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Dialogs\DlgParams.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Dialogs\DlgParams.Designer.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Dialogs\DlgParams.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Drawings.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Drawings.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Features.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Features.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\GoodFeaturesToTrack.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\GoodFeaturesToTrack.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\ImageFilters.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\ImageFilters.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\HaarClassifier.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\HaarClassifier.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Histogram.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Histogram.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Hough.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Hough.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Matching.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Matching.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Math.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Math.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\PerspectiveTransform.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\PerspectiveTransform.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Random.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Random.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="MainForm.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="ImageProcessing\Segment.cs" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\ImageProcessing\Segment.cs">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="sT32x32.ico" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\sT32x32.ico">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Dialogs\DlgParams.resx" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Dialogs\DlgParams.resx">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Dialogs\DlgVideoSrc.resx" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Dialogs\DlgVideoSrc.resx">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="MainForm.resx" Description="File successfully backed up as D:\Work\OpenCV C# Wrapper\samples_src\BigSample_src\BigSample\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="BigSample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BigSample" Source="BigSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BigSample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BigSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BigSample" Source="BigSample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

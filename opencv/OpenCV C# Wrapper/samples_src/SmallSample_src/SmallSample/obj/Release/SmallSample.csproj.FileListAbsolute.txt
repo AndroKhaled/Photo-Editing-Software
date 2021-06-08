@@ -1,0 +1,10 @@
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\bin\Release\SimpleCvTest.exe
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\bin\Release\SimpleCvTest.pdb
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\bin\Release\openCV.dll
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\obj\Release\ResolveAssemblyReference.cache
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\obj\Release\SmallSample.Form1.resources
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\obj\Release\SimpleCvTest.Properties.Resources.resources
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\obj\Release\SmallSample.csproj.GenerateResource.Cache
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\obj\Release\SimpleCvTest.exe
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\obj\Release\SimpleCvTest.pdb
+D:\Work\OpenCV C# Wrapper\samples_src\SmallSample_src\SmallSample\bin\Release\openCV.xml
